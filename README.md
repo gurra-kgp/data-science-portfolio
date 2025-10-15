@@ -14,7 +14,7 @@ Tech program manager transitioning to Data Science. Background in Physics and Me
 - Passenger class significantly impacted survival rates
 - Members of small families had better survival rates than solo travelers or members of large families
 
-[View Notebook](https://github.com/gurra-kgp/data-science-portfolio/blob/main/Titanic%20Survival%20Analysis.ipynb)
+[View Notebook](https://github.com/gurra-kgp/data-science-portfolio/blob/58501aeccdf5de48c85fbe178760712d540e6187/Titanic%20Surival%20EDA/Titanic%20Survival%20Analysis.ipynb)
 
 ---
 
